@@ -1,0 +1,42 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "tianhaoz95",
+      "name": "Tianhao Zhou",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/16887772?v=4",
+      "profile": "http://tianhaoz.com",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "ilteoood",
+      "name": "Matteo Pietro Dazzi",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/6383527?v=4",
+      "profile": "http://telegram.me/ilteoood",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "preetjdp",
+      "name": "Preet Parekh",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/27439197?v=4",
+      "profile": "https://preet.website",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "update-flutter-packages",
+  "projectOwner": "tianhaoz95",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
