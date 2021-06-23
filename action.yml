@@ -1,4 +1,4 @@
-name: 'Flutter Package Updater'
+name: 'Flutter Renovate Bot'
 author: 'Tianhao Zhou'
 description: 'Flutter package update automation'
 inputs:
